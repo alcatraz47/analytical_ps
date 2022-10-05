@@ -7,3 +7,6 @@
 - Also, the problem setters can ask to provide the longest or shortest sequence.
 - Can be asked to find the target values of a list/array or string.
 - A condition will be provided to satisfy the output value.
+### Two pointers:
+- Iterable(s) will be given. I.e.: array/lists.
+- A pair(two values) a.k.a a two pointers will be key thing to ask.
